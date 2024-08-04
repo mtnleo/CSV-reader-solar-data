@@ -1,0 +1,14 @@
+"Time stamp,""Electricity to grid (year 1 hourly) | (kWh)""";
+Jan 1, 12:00 am,0;0
+Jan 1, 01:00 am,0;0
+Dec 31, 01:00 pm,0.02;0.02
+Dec 31, 02:00 pm,0.1;0.1
+Dec 31, 03:00 pm,0.3;0.3
+Dec 31, 04:00 pm,0.3;0.3
+Dec 31, 05:00 pm,0.2;0.2
+Dec 31, 06:00 pm,0.01;0.01
+Dec 31, 07:00 pm,0;0
+Dec 31, 08:00 pm,0;0
+Dec 31, 09:00 pm,0;0
+Dec 31, 10:00 pm,0;0
+Dec 31, 11:00 pm,0;0
